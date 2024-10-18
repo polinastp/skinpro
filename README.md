@@ -3,4 +3,7 @@ I am building a website that could help people with acne prone skin to find a pr
 
 Future work: 
 - add a catalogue with ingredient-safe products
+- add more ingredients to the list
+- experiment with a database
+- 
 - react 
